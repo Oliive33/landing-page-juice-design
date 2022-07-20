@@ -175,7 +175,7 @@ img {
 .home__title span {
   display: block;
   color: var(--first-color);
-  letter-spacing: 2px;
+  letter-spacing: 5px;
 }
 
 .home__description,
