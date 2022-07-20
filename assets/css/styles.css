@@ -320,10 +320,19 @@ img {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 405px) {
   .container {
     margin-left: 1rem;
     margin-right: 1rem;
+  }
+  .home__container {
+    padding-top: 5rem;
+  }
+  .home__title {
+    font-size: 2.1rem;
+  }
+  .home__description {
+    width: 80%;
   }
   .home__images {
     width: 245px;
